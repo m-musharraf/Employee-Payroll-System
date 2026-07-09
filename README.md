@@ -64,7 +64,7 @@ The original source code for this project is no longer fully available.
 
 This repository contains screenshots of the completed application to demonstrate its functionality.
 
-To preserve evidence of the implementation, this repository includes screenshots of the completed application, source code and Database for each major page. These code screenshots are provided as supporting documentation and represent the implementation completed during the academic project.
+To preserve evidence of the implementation, this repository includes screenshots of the completed application, source code, and database for each major page. These code screenshots are provided as supporting documentation and represent the implementation completed during the academic project.
 
 ---
 
